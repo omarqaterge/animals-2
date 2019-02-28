@@ -1,0 +1,3 @@
+Hamster
+Lizard
+Rabbit
