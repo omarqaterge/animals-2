@@ -1,3 +1,4 @@
 Hamster
 Lizard
 Rabbit
+Dog / Cat
